@@ -21,19 +21,21 @@ This chat program, named Basic Chat Protocol, is implemented using socket progra
 
 Navigate to the project directory:
 
-```bash
-cd chat-program
+   ```bash
+   cd chat-program
+   ```
 
 Run the server:
 
-```bash
-python server.py
+   ```bash
+   python server.py
+   ```
 
 Open multiple terminals or command prompts and run the client program in each:
 
-```bash
-python client.py
-
+   ```bash
+   python client.py
+   ```
 
 ## Usage
 
